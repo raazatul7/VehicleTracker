@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Vehicle Tracker</string>
+    <string-array name="countries">
+        <item>New Delhi</item>
+        <item>Gurugram</item>
+        <item>Delhi</item>
+        <item>Noida</item>
+        <item>Dwarka</item>
+        <item>Janakpuri</item>
+    </string-array>
+
+</resources>

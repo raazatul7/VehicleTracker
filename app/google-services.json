@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "607867657521",
+    "firebase_url": "https://myproject-ab9a1.firebaseio.com",
+    "project_id": "myproject-ab9a1",
+    "storage_bucket": "myproject-ab9a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607867657521:android:2cb076a9073aab6b",
+        "android_client_info": {
+          "package_name": "com.example.calculator.logindesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607867657521-49v4td5cd000vqhdbbf5vn6gp053939a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.calculator.logindesign",
+            "certificate_hash": "41fc8bd80f5fa15e7d1cb6f4fc4ce4f6eaa0545f"
+          }
+        },
+        {
+          "client_id": "607867657521-c8r6c7rplvuemcten1mprc1ss6jl0l5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDdP211ev4O1fY85k_qCgvIn0LqDHG-tM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607867657521-c8r6c7rplvuemcten1mprc1ss6jl0l5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
